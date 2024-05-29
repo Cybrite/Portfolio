@@ -89,7 +89,7 @@ function Start() {
             </svg>
           </a>
         </div>
-        Sybrite, [29-05-2024 21:59]
+      
         <div>
           <a
             href="https://www.instagram.com/harsh_krv?igsh=MTl5OWh4dDRpY3lvMA=="

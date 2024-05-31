@@ -7,7 +7,7 @@ export function About() {
         <ul className="list-none">
           <li>
             <p className="font-semibold">
-              National Institue of Technology (NIT),Rourkela-769005
+              National Institue of Technology (NIT),Rourkela,Odisha,India-769005
             </p>
           </li>
           <li>
